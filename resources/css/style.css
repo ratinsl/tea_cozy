@@ -1,7 +1,7 @@
 
-/*div {
+div {
   border: 1px solid white;
-}*/
+}
 
 body {
   margin: 0;
@@ -60,7 +60,7 @@ nav span {
 
 /* Mission */
 
-.main {
+#main {
   padding-top: 69px;
   opacity: 0.9;
   width: 1200px;
@@ -140,9 +140,11 @@ nav span {
 
 #contact {
   height: 200px;
+  color: seashell;
 }
 
 footer {
   text-align: left;
   padding-left: 20px;
+  color: seashell;
 }
