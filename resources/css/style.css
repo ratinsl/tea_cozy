@@ -56,6 +56,10 @@ nav span {
   padding: 0px 10px;
 }
 
+/* Content Start */
+
+/* Mission */
+
 .main {
   padding-top: 69px;
   opacity: 0.9;
@@ -79,10 +83,7 @@ nav span {
   padding: 2px 0px;
 }
 
-/* Type */
-
-
-/* Tea of Month Start */
+/* Locations */
 
 
 #locations {
@@ -117,23 +118,13 @@ nav span {
   padding-top: 5px;
 }
 
+/* Store Area */
+
 #store {
   width: 1000px;
   height: 700px;
   margin: auto;
 }
-
-.tea-thumb {
-  display: flex;
-  width: 300px;
-}
-
-.tea-image img {
-  width: 300px;
-}
-
-/* Location Area */
-
 
 .item {
   padding: 5px;
